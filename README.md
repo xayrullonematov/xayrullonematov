@@ -79,7 +79,8 @@ class VIPStone:
 
 <div align="center">
 
-![Stats](https://github-readme-stats.vercel.app/api?username=xayrullonematov&show_icons=true&theme=dark
+![Profile Card](https://animated-profile-stats.vercel.app/api/card?username=xayrullonematov&type=fire)
+
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=xayrullonematov&theme=dark&hide_border=true&background=0d1117&ring=39ff14&fire=39ff14&currStreakLabel=39ff14)
 
 </div>
